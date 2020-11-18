@@ -1,4 +1,4 @@
-//start by describing th test, what we want it to perform, what it should do, and what we expect.
+//start by describing the test, what we want it to perform, what it should do, and what we expect.
 //Make sure brackets, semi-colons and Capitalisation is right.
 
 describe("Calculator", function(){
